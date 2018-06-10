@@ -11,7 +11,7 @@ test_csv_input.py    test input many article article in csv format and output ke
 textRank.py    improve textRank based on word2vec
 word2vec directory    train word2vec model
 
-# if any bug please read build.sh or contact 1905561110@qq.com
+# if any bug please read build.sh or contact zzshengyeah@gmail.com
 
 
 #TextRank-pro
